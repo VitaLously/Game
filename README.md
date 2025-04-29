@@ -17,5 +17,4 @@ Enter your guess: 63
 Congratulations! You guessed the number in 3 attempts.``
 
 # License
-
-This project is licensed under the MIT License.
+ MIT License.
