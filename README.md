@@ -13,7 +13,7 @@ Enter your guess: 50
 Too low! Try again.
 Enter your guess: 75
 Too high! Try again.
-Enter your guess: 63
+Enter your guess: 65
 Congratulations! You guessed the number in 3 attempts.``
 
 # License
