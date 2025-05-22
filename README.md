@@ -1,5 +1,5 @@
 # Game
-Guess the Number!!! 
+Guess the Number!
 
 # Description
 
